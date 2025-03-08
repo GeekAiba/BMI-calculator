@@ -48,6 +48,3 @@ Follow these steps to set up and run the application:
 ---![14837E8C-B443-4549-9D90-0C4441C01EF6](https://github.com/user-attachments/assets/cbdb584f-6ff7-46f6-baad-c32e12847119)
 
 
-## 📜 License
-This project is open-source. Feel free to contribute and improve it!
-
